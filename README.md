@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @homepage408
 - 👀 I’m interested in Backend Tech Stack
 - 🌱 I’m currently learning Golang
+- 🚀 The programming languages that have been used are Golang, Javascript, Typescript and Python
 - 📫 How to reach me homepage408@gmail.com
 
 <!---
